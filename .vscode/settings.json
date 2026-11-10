@@ -1,0 +1,13 @@
+{
+  "files.watcherExclude": {
+    "**/dist/**": true,
+    "**/dist-teste/**": true,
+    "**/publicar/**": true,
+    "**/node_modules/**": true
+  },
+  "search.exclude": {
+    "**/dist": true,
+    "**/dist-teste": true,
+    "**/publicar": true
+  }
+}
